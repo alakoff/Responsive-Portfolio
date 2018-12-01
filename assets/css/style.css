@@ -75,7 +75,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: purple;
 }
 
 nav {
@@ -131,7 +131,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: black;
+  background-color: black;
   border: 1px solid #dddddd;
 }
 
